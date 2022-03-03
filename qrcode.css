@@ -37,3 +37,34 @@ img {
   color: hsl(220, 15%, 55%);
   font-size: 15px;
 }
+
+@media screen and (min-width: 600px) {
+  .container {
+    margin: 100px 350px;
+    padding: 1%;
+    width: auto;
+  }
+
+  .img-div {
+    margin-right: 1%;
+    margin-left: 1%;
+    padding: auto;
+  }
+  img {
+    width: 400px;
+    border-radius: 10px;
+  }
+
+  #title {
+    font-size: larger;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    font-size: 16px;
+  }
+
+  #content {
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+  }
+}
