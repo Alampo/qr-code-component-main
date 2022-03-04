@@ -15,11 +15,6 @@ body {
   text-align: center;
 }
 
-.img-div {
-  margin-right: 1%;
-  margin-left: 1%;
-  padding: auto;
-}
 img {
   width: 250px;
   border-radius: 10px;
@@ -45,11 +40,6 @@ img {
     width: auto;
   }
 
-  .img-div {
-    margin-right: 1%;
-    margin-left: 1%;
-    padding: auto;
-  }
   img {
     width: 400px;
     border-radius: 10px;
